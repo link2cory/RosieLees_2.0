@@ -1,0 +1,21 @@
+{
+  "name": "rosielees_2.0",
+  "version": "0.0.1",
+  "description": "Rosie Lee's Teas website",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsubstantiated-Script/rosieLees_2.0.git"
+  },
+  "author": "Justin Fulton & Cory Perkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unsubstantiated-Script/rosieLees_2.0/issues"
+  },
+  "homepage": "https://github.com/unsubstantiated-Script/rosieLees_2.0#readme",
+  "dependencies": {
+    "slick-slider": "^1.8.2"
+  }
+}
